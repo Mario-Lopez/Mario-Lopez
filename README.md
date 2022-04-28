@@ -2,10 +2,9 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mario_Lopez99) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariolopez99) [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/9MarioLopez9/)
 
-```
+```javascript
 Console.log("Welcome to my profile")
 ```
-
 
 ### Technologies
 🌐 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><br>
